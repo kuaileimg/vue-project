@@ -1,5 +1,7 @@
 # vue-project 微信单页小应用开发 
 
+ 正在学习中，有待更新
+ 
 > vue-pro
 
 ## Build Setup
