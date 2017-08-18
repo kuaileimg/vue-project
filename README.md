@@ -1,4 +1,4 @@
-# vue-project 微信单页应用开发
+# vue-project 微信单页小应用开发
 
 > vue-pro
 
